@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: Arshia Gharai
+Oct 28, 2018
+	Yesterday :N/A
+	Today     :N/A
+	Obstacles :N/A
+
+Oct 29, 2018
+	Yesterday :N/A
+	Today     :N/A
+	Obstacles :N/A
+
+Oct 30, 2018
+	Yesterday :Picked our user stories to see which group member is doing what 
+	Today     :N/A
+	Obstacles :N/A
+
+Oct 31, 2018
+	Yesterday :user Stories
+	Today     :Me, Parsa and Liam picked claimed our user stories 
+	Obstacles :N/A
+
+Nov 1, 2018
+	Yesterday : user stories picked
+	Today     : Liam finished user stories 1 and 2.
+	Obstacles : N/A
+
+Nov 2, 2018
+	Yesterday : We all worked on the user stories
+	Today     : I finished user story 5 and Parsa finished user stories 3 and 4
+	Obstacles : 
+
+Nov 3, 2018
+	Yesterday :I worked on User story 5
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 4, 2018
+	Yesterday : N/A
+	Today     : I worked on User Story 6
+	Obstacles : N/A
+
+Nov 5, 2018
+	Yesterday : I started working on UserStory 6
+	Today     :	I finished UserStory 6
+	Obstacles : N/A
+
+Nov 6, 2018
+	Yesterday : finished UserStory 6
+	Today     :	helped parsa finish Bug 2. We also had a discussion in the group about how we are going to implement the UI.
+	Obstacles : N/A
+
+Nov 7, 2018
+	Yesterday : finished UserStory 6 and Bug 2. Also made A lot of progress on the UI planning.
+	Today     :	N/A
+	Obstacles : N/A
+
+Nov 8, 2018
+	Yesterday : N/A
+	Today     :	started working on Bug 5. Tawab is still working on UserStory 7. Liam started working on Bug 7.
+	Obstacles : could not get the Squiggle lines not to be attached together 
+
+Nov 9, 2018
+	Yesterday : The group worked on Bug 5, UserStory 7 and Bug 7
+	Today     : Tawab finished UserStory 7, I kept working on Bug 5 and liam finished Bug 7.
+	Obstacles : N/A
+
+Nov 10, 2018
+	Yesterday : finished Bug 7 and UserStory 7, worked Bug 5
+	Today     : I am stuck on Bug 5 so I had to go talked to other group member to try to fix the bug
+	Obstacles : N/A
+	
+Nov 11, 2018
+	Yesterday : Met with the group to get some help on Bug 5
+	Today     : Finally finished/fixed bug 5, Parsa started working on bug 3
+	Obstacles : N/A
+	
+Nov 12, 2018
+	Yesterday : finished Bug 5, made progress on Bug 3
+	Today     :	I started working on Bug 8 which I had a lot of problems with, Parsa finished Bug 3, Tawab started working on UserStory 8
+	Obstacles : Just how to implement and try to fix bug 8
+
+Nov 13, 2018
+	Yesterday : made progress on Bug 8, Bug 3 and also UserStory 8 
+	Today     : I worked on Bug 8 
+	Obstacles : N/A
+
+Nov 14, 2018
+	Yesterday :
+	Today     :
+	Obstacles :

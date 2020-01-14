@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: Liam Eaton
+Oct 28, 2018
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/a
+
+Oct 29, 2018
+	Yesterday : N/A
+	Today     : Formed group and exchanged information
+	Obstacles : N/A
+
+Oct 30, 2018
+	Yesterday : Talked about ideas for user stories distribution
+	Today     : Nothing.
+	Obstacles : N/A
+
+Oct 31, 2018
+	Yesterday :
+	Today     : Parsa and I picked our user stories and consulted with other members.
+	Obstacles : N/A
+
+Nov 1, 2018
+	Yesterday : Liam finished user stories 1 and 2; Parsa looked at rectangle.
+	Today     : Communicated with other members about what user stories they want to do.
+	Obstacles : Drawing new circles adds hundreds of circles to the model, however visually it is correct.
+
+Nov 2, 2018
+	Yesterday : Finished drawing circles method
+	Today     : Consulted with members about their role in finishing scrum 1
+	Obstacles : N/A
+
+Nov 3, 2018
+	Yesterday : Finalized decision on roles for scrum 1, pushed back scrum 1 to Sunday
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 4, 2018
+	Yesterday : N/A
+	Today     : Finished Bug1
+	Obstacles : Sizing of images in the buttons
+
+Nov 5, 2018
+	Yesterday : Finished Bug1
+	Today     : Worked on making Bug1 icons in the same color, didn't have any luck
+	Obstacles : Considering using icons for the buttons, but want to consult with team first. More time will be required
+
+Nov 6, 2018
+	Yesterday : Finished Bug1
+	Today     : Discussed importance of UI with teammates and agreed on a WinXP-Style UI for the assignment moving forward.
+	Obstacles : N/A
+
+Nov 7, 2018
+	Yesterday : UI talk went well, agreed on dimensions for canvas, and design elements.
+	Today     : Created Bug11 with consultation from group members.
+	Obstacles : Questioning changes made to other objects - consultation with other members will be required.
+
+Nov 8, 2018
+	Yesterday : Created on worked on Bug11. 
+	Today     : Completed Bug11, and played around with JavaFX's Color Picker, will discuss with group about whether this is a feature we want to implement going forward.
+	Obstacles : Waiting on group's approval for Color Picker
+
+Nov 9, 2018
+	Yesterday : Finished Bug11, implemented custom GUI Color Picker
+	Today     : Finished Bug7, and implemented Undo and Redo functionality
+	Obstacles : N/A
+
+Nov 10, 2018
+	Yesterday : Finished Bug7
+	Today     : Created and finished Bug12 (Save and Open buttons), added documentation to methods and classes.
+	Obstacles : Making Color serializable for saving and opening
+	
+Nov 11, 2018
+	Yesterday : Finished Bug12, needed some tweaking to perfect it.
+	Today     : Finished Bug13, added the Exit button functionality and docs
+	Obstacles : N/A
+	
+Nov 12, 2018
+	Yesterday : Finished Bug13, Parsa tried to work on bug3 without much success, Arshia started squiggle.
+	Today     : Arshia finished Squiggle, and Parsa worked on Bug3, I finalized my documentation for my older functions, simplified Color adding.
+	Obstacles : Parsa needs assistance with bug3, line thickness button crashes on macOS.
+
+Nov 13, 2018
+	Yesterday : Linethickness issue not resolved, bug3 still not working.
+	Today     : Linethickness error resolved in shapes, Parsa started on factory design for bug3, I worked on Bug4
+	Obstacles : Questions about passing/getting values from Model to new design pattern.
+
+Nov 14, 2018
+	Yesterday : Fixed linethick and started changes for Bug#3
+	Today     : Added more documentation to my methods and code, helped Parsa with Bug3
+	Obstacles : N/A

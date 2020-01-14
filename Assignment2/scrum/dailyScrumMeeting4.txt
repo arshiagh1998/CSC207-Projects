@@ -1,0 +1,93 @@
+# Fill in, commit and push each day.
+# Group Member: Abdul Tawab Amiri
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday :
+	Today     : Realized that for line thickness, GraphicsContext has a method
+				called setlineWidth which changes the line thickness.
+	Obstacles : Not sure how to add this in the main Paint program in which a user can input a a line thickness.
+
+Nov 4, 2018
+	Yesterday :
+	Today     : Able to insert a Joption textbook asking for user input on line thickness
+	Obstacles : It seems to be chaning all the lines previously drawn, seems like line thickness might have to be in the contructer
+
+Nov 5, 2018
+	Yesterday :
+	Today     : Worked all day today so time to work on this assignment
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 7, 2018
+	Yesterday :
+	Today     : Git cloned the master to see a new layout for the UI, just updated the code to fit with the current UI, still have line thickness issues affecting previous drawings.
+	Obstacles :
+
+Nov 8, 2018
+	Yesterday :
+	Today     :Finally was able to fix my code and able to implent a proper line thickness option that doesn't change previous
+	shapes. Only issue now is line drawing.
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 10, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :
+	Today     :
+	Obstacles :

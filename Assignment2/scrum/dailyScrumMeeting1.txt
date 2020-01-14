@@ -1,0 +1,95 @@
+# Fill in, commit and push each day.
+# Group Member: Parsa Berenjimonfared
+Oct 28, 2018
+	Yesterday :N/A
+	Today     :N/A
+	Obstacles :N/A
+
+Oct 29, 2018
+	Yesterday :N/A
+	Today     :Group formed and members exchanged each other's informations
+	Obstacles :N/A
+
+Oct 30, 2018
+	Yesterday :
+	Today     :we discussed about the distribution of the UserStories
+	Obstacles : Team management was difficult, because we had to make sure everyone
+	gets same load of the assignment.
+
+Oct 31, 2018
+	Yesterday :
+	Today     :The distribution is finished and we are ready to start
+	Obstacles :N/A
+
+Nov 1, 2018
+	Yesterday :
+	Today     : Parsa finished user story 3 and Liam finished userstories 1 and 2.
+	Obstacles : 
+
+Nov 2, 2018
+	Yesterday :
+	Today     :I finished user Story 4 and changed my code structure for rectangle
+	Obstacles :user Story 4 wouldnt work with the code I made for Rectangle, so I had to
+	come up with new way of writing it.
+
+Nov 3, 2018
+	Yesterday :NA
+	Today     :NA
+	Obstacles :NA
+	
+Nov 4, 2018
+	Yesterday :
+	Today     :
+	Obstacles : 
+
+
+Nov 5, 2018
+	Yesterday :NA
+	Today     :NA
+	Obstacles :NA
+
+Nov 6, 2018
+	Yesterday :
+	Today     :	we had discussion about the UI of the Paint and how the buttons should be implement, I also finished the Bug2 
+	Obstacles :	the design of the paint program and resolving bug2, which lead to changing the button types to toggle to keep track of the button selections
+	in a certain button toggle group
+
+Nov 7, 2018
+	Yesterday : The UI talk finished and we changed some UI features
+	Today     : we talked about new potential bugs and adding them to the project
+	Obstacles : 
+
+Nov 8, 2018
+	Yesterday :
+	Today     : worked on bug 3 and helped others on their parts and the overall UI design
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday :NA
+	Today     :NA
+	Obstacles :NA
+
+Nov 10, 2018
+	Yesterday :
+	Today     : talked to team about more bugs and changing the design pattern of the project
+	Obstacles : the decision of choosing an appropriate design pattern.
+	
+Nov 11, 2018
+	Yesterday :
+	Today     : I created two User Stories for drawing the square and the feedback for it
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday : created User stories to be done
+	Today     : finished the user stories for square so now we are able to draw square
+	Obstacles : creating square
+
+Nov 13, 2018
+	Yesterday : finished square
+	Today     : I worked on bug3 and fixed line thickness
+	Obstacles : none
+
+Nov 14, 2018
+	Yesterday :
+	Today     : finished bug3 and added some documentations and started to think about factory desing with teammates, to be done
+	Obstacles : bug 3 and how strategy design pattern works for our project
